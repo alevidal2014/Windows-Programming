@@ -1,0 +1,15 @@
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\bin\Debug\Homework9.exe.config
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\bin\Debug\Homework9.exe
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\bin\Debug\Homework9.pdb
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\bin\Debug\ControlLibrary.dll
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\bin\Debug\ControlLibrary.pdb
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\obj\Debug\Homework9.csprojResolveAssemblyReference.cache
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\obj\Debug\Homework9.AboutDialog.resources
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\obj\Debug\Homework9.TopForm.resources
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\obj\Debug\Homework9.OathDialog.resources
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\obj\Debug\Homework9.Properties.Resources.resources
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\obj\Debug\Homework9.csproj.GenerateResource.Cache
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\obj\Debug\Homework9.csproj.CoreCompileInputs.cache
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\obj\Debug\Homework9.exe
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\obj\Debug\Homework9.pdb
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\Homework9\obj\Debug\Homework9.SearchDialog.resources

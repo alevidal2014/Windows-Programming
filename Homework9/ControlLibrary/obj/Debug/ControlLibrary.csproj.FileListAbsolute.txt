@@ -1,0 +1,13 @@
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\bin\Debug\ControlLibrary.dll
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\bin\Debug\ControlLibrary.pdb
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\obj\Debug\ControlLibrary.BaseDialog.resources
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\obj\Debug\ControlLibrary.BaseForm.resources
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\obj\Debug\ControlLibrary.BaseMainForm.resources
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\obj\Debug\ControlLibrary.Properties.Resources.resources
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\obj\Debug\ControlLibrary.TeamDetailUserControl.resources
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\obj\Debug\ControlLibrary.TeamNameUserControl.resources
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\obj\Debug\ControlLibrary.OathControl.resources
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\obj\Debug\ControlLibrary.csproj.GenerateResource.Cache
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\obj\Debug\ControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\obj\Debug\ControlLibrary.dll
+C:\Users\fcb_a\Source\Repos\uha-repo16\Homework9\ControlLibrary\obj\Debug\ControlLibrary.pdb
